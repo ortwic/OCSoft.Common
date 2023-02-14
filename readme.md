@@ -5,3 +5,6 @@
 - Some handy file extensions
 - Measure performance with stopwatch
 - EventLogger with timestamps to keep an eye on performance 
+
+# License
+MIT
